@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif; /* aplicar a fonte poppins em tudo */
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #433fac 0%, rgba(30, 29, 79, 0.8) 100%);
+  background-attachment: fixed; /* Mantém o fundo fixo ao rolar */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
